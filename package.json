@@ -1,0 +1,16 @@
+{
+  "name": "03_trufflebox_exo",
+  "version": "1.0.0",
+  "description": "This box comes with everything you need to start using Truffle to write, compile, test, and deploy smart contracts, and interact with them from a React app.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^2.1.1",
+    "dotenv": "^16.0.3"
+  }
+}
